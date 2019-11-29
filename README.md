@@ -1,2 +1,1 @@
-# InfoManageSys-Homework-
-Homework for A Public Elective Course(iOS related) in 2019, Mid.
+2019年，第三学期公选课作业。内含实验报告。
